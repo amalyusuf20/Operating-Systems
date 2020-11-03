@@ -1,3 +1,5 @@
 Operating system helps with transferring of programs in and out of memory.
 Manages files and folders. 
 Supports hardware devices like keyboards and mouse.
+processor management.
+provides important information to troubleshoot.
